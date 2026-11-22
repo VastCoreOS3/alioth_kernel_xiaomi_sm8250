@@ -14,8 +14,8 @@ permissions:
   contents: write
 env:
   CLANG_DOWNLOAD_URL: "https://github.com/Impqxr/aosp_clang_ci/releases/download/13289611/clang-13289611-linux-x86.tar.xz"
-  KERNEL_TREE_OWNER_REPO: "VastCoreOS3/n0kernel_xiaomi_sm8250"
-  KERNEL_TREE_URL: "https://github.com/VastCoreOS3/n0kernel_xiaomi_sm8250"
+  KERNEL_TREE_OWNER_REPO: "VastCoreOS3/alioth_kernel_xiaomi_sm8250"
+  KERNEL_TREE_URL: "https://github.com/VastCoreOS3/alioth_kernel_xiaomi_sm8250"
   ANYKERNEL_URL_ALIOTH: "https://github.com/Impqxr/AKalioth"
   ANYKERNEL_BRANCH_ALIOTH: "main"
 jobs:
